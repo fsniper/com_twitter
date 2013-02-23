@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="authentication">
+	<name>Authentication - Twitter</name>
+	<version>0.1</version>
+	<creationDate>2009/08/04</creationDate>
+	<author>Mobilada.com</author>
+	<authorEmail>info@mobilada.com</authorEmail>
+	<authorUrl>http://www.yalazi.org</authorUrl>
+	<copyright>Mobilada.com</copyright>
+	<license>GPL</license>
+	<description>Twitter authentication plugin</description>
+	<files>
+		<filename plugin="twitter_auth">twitter_auth.php</filename>
+	</files>
+</install>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+<name>Twitter</name>
+<author>Mobilada.com</author>
+<version>0.1</version>
+<description>Provides twitter oauth module for joomla 1.5</description>
+<files>
+  <filename module="mod_twitter">mod_twitter.php</filename>
+</files>
+</install>
